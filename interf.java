@@ -17,7 +17,7 @@ public void meth3() {
 System.out.println("method3 in c");
 }
 }
-public class First {
+public class interf {
 	public static void main(String[] args) {
 		C obj=new C();
 		obj.meth1();
@@ -25,4 +25,3 @@ public class First {
 		obj.meth3();
 	}
 }
-
