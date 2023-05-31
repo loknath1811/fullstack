@@ -1,0 +1,26 @@
+
+        h1{
+            color:blueviolet;
+            background-color: aqua;
+        }
+        h2{
+            color:blue;
+            background-color: aqua;
+        }
+        p{
+            color: brown;
+            background-color: blueviolet;
+        }
+        html{
+            background-color:aquamarine;
+        }
+        pre{
+            border-style: dotted;
+        }
+        b{
+            border-style: double;
+        }
+        i{
+            border-style: dashed;
+        }
+        
